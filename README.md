@@ -1,4 +1,4 @@
-# PROJETO MODIFICADO PARA RODAR SEM LOGIN, EXECUTE O SCRIPT `seed.sql` PARA CRIAR UM USUÁRIO E UMA ORGANIZAÇÃO FICTÍCIA
+# PROJETO MODIFICADO PARA RODAR SEM LOGIN, EXECUTE O SCRIPT `seed.sql` PARA CRIAR UM USUÁRIO E UMA ORGANIZAÇÃO FICTÍCIA. ACESSAR EM: http://localhost:3000/admin/dashboard
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
